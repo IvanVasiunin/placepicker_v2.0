@@ -20,6 +20,7 @@ export default function DeleteConfirmation({ onConfirm, onCancel }) {
       <h2>Are you sure?</h2>
       <p>Do you really want to remove this place?</p>
       <div id="confirmation-actions">
+        <ProgressBar timer={TIMER} />
         <button onClick={onCancel} className="button-text">
           No
         </button>
@@ -27,7 +28,6 @@ export default function DeleteConfirmation({ onConfirm, onCancel }) {
           Yes
         </button>
       </div>
-      <ProgressBar timer={TIMER} />
     </div>
   );
 }
