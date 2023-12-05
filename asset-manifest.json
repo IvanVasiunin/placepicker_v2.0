@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/placepicker_v2.0/static/css/main.3a82dec8.css",
-    "main.js": "/placepicker_v2.0/static/js/main.c562b311.js",
+    "main.css": "/placepicker_v2.0/static/css/main.f673fc0a.css",
+    "main.js": "/placepicker_v2.0/static/js/main.88db8389.js",
     "static/media/logo.png": "/placepicker_v2.0/static/media/logo.ce5c7afc5810ff065739.png",
     "index.html": "/placepicker_v2.0/index.html",
-    "main.3a82dec8.css.map": "/placepicker_v2.0/static/css/main.3a82dec8.css.map",
-    "main.c562b311.js.map": "/placepicker_v2.0/static/js/main.c562b311.js.map"
+    "main.f673fc0a.css.map": "/placepicker_v2.0/static/css/main.f673fc0a.css.map",
+    "main.88db8389.js.map": "/placepicker_v2.0/static/js/main.88db8389.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a82dec8.css",
-    "static/js/main.c562b311.js"
+    "static/css/main.f673fc0a.css",
+    "static/js/main.88db8389.js"
   ]
 }
